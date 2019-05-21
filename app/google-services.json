@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "404725092882",
+    "firebase_url": "https://fruit-stand-a20cd.firebaseio.com",
+    "project_id": "fruit-stand-a20cd",
+    "storage_bucket": "fruit-stand-a20cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404725092882:android:bd9691d89e65fe2b",
+        "android_client_info": {
+          "package_name": "com.zandybillones.fruitstand"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404725092882-4eecep35psjee1urbvsv15htlpe8j53e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqZt5IYdIby1ADWpKs5vkAsADcxetWbG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404725092882-4eecep35psjee1urbvsv15htlpe8j53e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
